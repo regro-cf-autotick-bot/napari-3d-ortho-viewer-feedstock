@@ -20,13 +20,12 @@ requirements:
     - python >=3.8
     - setuptools
   run:
-  	- magicgui
+    - magicgui
     - napari
-    - napari-plugin-engine >=0.1.4
     - numpy
     - python >=3.8
-	  - scikit-image
-	  - qtpy
+    - scikit-image
+    - qtpy
 
 test:
   imports:
