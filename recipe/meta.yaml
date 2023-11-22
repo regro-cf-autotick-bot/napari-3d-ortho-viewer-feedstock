@@ -32,15 +32,17 @@ test:
     - pip check
   requires:
     - pip
+    - pyqt
 
 about:
-  home: https://github.com/gatoniel/napari-3d-ortho-viewer
+  home: https://pypi.org/project/napari-3d-ortho-viewer
   summary: Napari 3D Ortho Viewer - an ortho viewer for napari for 3D images
   license: MIT
   license_file: LICENSE
+  dev_url: https://github.com/gatoniel/napari-3d-ortho-viewer
 
 extra:
   recipe-maintainers:
+    - gatoniel
     - goanpeca
     - jaimergp
-    - gatoniel
