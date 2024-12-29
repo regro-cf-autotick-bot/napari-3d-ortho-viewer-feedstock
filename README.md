@@ -3,11 +3,13 @@ About napari-3d-ortho-viewer-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-3d-ortho-viewer-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/gatoniel/napari-3d-ortho-viewer
+Home: https://pypi.org/project/napari-3d-ortho-viewer
 
 Package license: MIT
 
 Summary: Napari 3D Ortho Viewer - an ortho viewer for napari for 3D images
+
+Development: https://github.com/gatoniel/napari-3d-ortho-viewer
 
 Current build status
 ====================
